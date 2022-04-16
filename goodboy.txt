@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 
 
 THIRD
@@ -10,4 +9,7 @@ SECOND
 
 =======
 SECOND
->>>>>>> Stashed changes
+
+=======
+SECOND
+
