@@ -8,4 +8,9 @@ BANANA
 PAPAYA
 LITCHI
 ORANGE
+<<<<<<< HEAD
 FINE
+=======
+asdfasdf
+asdfas
+>>>>>>> 6e40360 (commit it now)
