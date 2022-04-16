@@ -1,0 +1,13 @@
+<<<<<<< Updated upstream
+
+
+THIRD
+
+SECOND
+
+
+SECOND
+
+=======
+SECOND
+>>>>>>> Stashed changes
