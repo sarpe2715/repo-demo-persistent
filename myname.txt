@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 FIRST 
 SECOND
 THIRD
 FOURTH
 FIFTH
 MANGO
+=======
+aMANGO
+>>>>>>> 6504883 (commit it now again)
 BANANA
 PAPAYA
 LITCHI
